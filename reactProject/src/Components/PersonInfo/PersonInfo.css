@@ -1,0 +1,24 @@
+.person{
+    color: black;
+    position: relative;
+    width: 600px;
+    height: 100px;
+    margin-inline: auto;
+    padding-inline: 4rem;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
